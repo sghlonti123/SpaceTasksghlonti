@@ -3,7 +3,7 @@
 ## Mini Testing Task by Shako Ghlonti for Space Vacancy
 
 ### Testing directory - /pytest
-### Testing py file - test_tbcpay.oy
+### Testing py file - test_tbcpay.py
 
 ### Tools used : Python3, Pytest, Selenium, Allure 
 
