@@ -12,7 +12,6 @@ driver = webdriver.Chrome(chrome)
 address = "https://tbcpay.ge/"
 driver.get(address)
 driver.maximize_window()
-driver.save_screenshot('home_page.png')
 time.sleep(3)
 
 '''     პირველი პუნქტი     '''
